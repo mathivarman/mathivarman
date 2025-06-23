@@ -8,7 +8,6 @@
   🎓 4th year BICT (Hons) student at the University of Sri Jayewardenepura <br>
   🌱 Currently learning Laravel and deepening my C#/.NET and Java knowledge <br>
   🔧 I enjoy solving real-world problems with clean, efficient code <br>
-  🐞 Skilled in Laravel debugging using `Log::info()`, exception handling, and monitoring logs with Laravel Telescope <br>
   📌 Focused on web development and system applications with practical experience in both frontend and backend technologies
 </p>
 
