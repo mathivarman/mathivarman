@@ -47,10 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
   <img src="https://img.icons8.com/ios/40/000000/mysql.png" alt="MySQLYog" title="MySQLYog" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" />
 </div>
 
 <p align="left">I'm always eager to collaborate on exciting projects and grow as a developer 🚀</p>
